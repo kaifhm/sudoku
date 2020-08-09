@@ -1,5 +1,5 @@
 # Sudoku
-A game of sudoku made in pygame, with highlight number, notes and error highlight
+A game of sudoku made in pygame, with highlight number, notes and error highlight feautures
 
 # Issues
 - Autosolve feauture is being worked on
